@@ -50,11 +50,11 @@ Decoy packets also complicate attempts to track down other agents participating 
 ### =============== **usage** ===============
 
 * git clone https://github.com/mohammad0021/TFN2K.git
-![TFN2K](http://s9.picofile.com/file/8319918684/1.png)
+![TFN2K](https://raw.githubusercontent.com/mohammad0021/TFN2K/master/1.png)
 # #
 
 * cd TFN2K/src
-![TFN2K](http://s9.picofile.com/file/8319916300/2.png)
+![TFN2K](https://raw.githubusercontent.com/mohammad0021/TFN2K/master/2.png)
 
 # #
 
@@ -62,12 +62,12 @@ Decoy packets also complicate attempts to track down other agents participating 
 > Do you agree to this disclaimer [y/n]? **`y`**   AND
 > server key [8 - 32 chars]: **`00008421`**
 
-![TFN2K](http://s9.picofile.com/file/8319916384/3.png)
+![TFN2K](https://raw.githubusercontent.com/mohammad0021/TFN2K/master/3.png)
 
 # #
 
 * ./tfn 
-![TFN2K](http://s9.picofile.com/file/8319916742/4.png)
+![TFN2K](https://raw.githubusercontent.com/mohammad0021/TFN2K/master/4.png)
 
 
 *｡◕‿◕｡*
